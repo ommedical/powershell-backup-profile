@@ -1,4 +1,3 @@
-```powershell
 <#
 .SYNOPSIS
     Installs the backup-file function to PowerShell profile
@@ -158,4 +157,3 @@ Write-Host "Profile location:" -ForegroundColor Yellow
 Write-Host "  $profileFile" -ForegroundColor Gray
 Write-Host ""
 pause
-```
