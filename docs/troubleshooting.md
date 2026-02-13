@@ -47,6 +47,3 @@ New-Item -ItemType Directory -Path $dir -Force
 
 #### 2. Verify profile path: $PROFILE
 
-| **URL** | `https://github.com/YOUR_USERNAME/powershell-backup-profile` |
-
-Your repo is ready! Users can now download `install.ps1` and run it to automatically install the backup function to their PowerShell profile.
