@@ -1,15 +1,3 @@
-
-Click **"Commit new file"**
-
----
-
-### FILE 3: `install/install.ps1` (in install FOLDER)
-
-Navigate to `install/` folder first, then:
-
-**Filename:** `install.ps1`
-
-**Content:**
 ```powershell
 <#
 .SYNOPSIS
