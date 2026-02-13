@@ -38,3 +38,21 @@ bf -file "market_data.db"
 
 # Backup with spaces in name
 bf -file "my script.ps1"
+```
+
+📂 Output Format
+plain
+```
+sample_20250212_143052_01.py
+sample_20250212_143055_02.py
+sample_20250212_143100_03.py
+```
+
+📋 Requirements
+Windows PowerShell 5.1 or PowerShell 7.x
+Windows 10/11 (macOS/Linux compatible with PowerShell Core)
+
+📚 Documentation
+Installation Guide
+Troubleshooting
+Advanced Usage
