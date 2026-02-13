@@ -119,17 +119,6 @@ Test-Path $PROFILE
 ```
 
 ```
-
-Click **"Commit new file"**
-
----
-
-### FILE 6: `profile-snippets/backup-function.ps1` (in profile-snippets FOLDER)
-
-**Filename:** `backup-function.ps1`
-
-**Content:**
-```powershell
 # ============================================
 # BACKUP-FILE FUNCTION
 # ============================================
