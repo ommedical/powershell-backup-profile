@@ -43,7 +43,11 @@ New-Item -ItemType Directory -Path $dir -Force
 ```
 
 #### Getting Help
-#### 1. Check PowerShell version: $PSVersionTable.PSVersion
+#### 1. Check PowerShell version:
 
-#### 2. Verify profile path: $PROFILE
+```$PSVersionTable.PSVersion```
+
+#### 2. Verify profile path:
+
+```$PROFILE```
 
