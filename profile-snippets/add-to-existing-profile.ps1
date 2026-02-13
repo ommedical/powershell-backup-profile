@@ -1,4 +1,3 @@
-```
 # ============================================
 # ADD TO EXISTING PROFILE
 # ============================================
@@ -6,6 +5,7 @@
 # ============================================
 
 # --- BACKUP-FILE FUNCTION START ---
+```
 function backup-file {
     param([string]$file = "sample.py")
     
@@ -41,5 +41,5 @@ function backup-file {
 }
 
 Set-Alias -Name bf -Value backup-file
-# --- BACKUP-FILE FUNCTION END ---
 ```
+# --- BACKUP-FILE FUNCTION END ---
