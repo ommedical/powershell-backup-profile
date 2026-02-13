@@ -40,7 +40,7 @@ bf -file "market_data.db"
 bf -file "my script.ps1"
 ```
 
-##📂 Output Format
+## 📂 Output Format
 
 ```
 sample_20250212_143052_01.py
@@ -48,13 +48,13 @@ sample_20250212_143055_02.py
 sample_20250212_143100_03.py
 ```
 
-##📋 Requirements
+## 📋 Requirements
 
-###Windows PowerShell 5.1 or PowerShell 7.x
-###Windows 10/11 (macOS/Linux compatible with PowerShell Core)
+### Windows PowerShell 5.1 or PowerShell 7.x
+### Windows 10/11 (macOS/Linux compatible with PowerShell Core)
 
-##📚 Documentation
+## 📚 Documentation
 
-###Installation Guide
-###Troubleshooting
-###Advanced Usage
+### Installation Guide
+### Troubleshooting
+### Advanced Usage
